@@ -31,7 +31,7 @@ Key goals include:
 
 Below is the project roadmap from **September 2024 to March 2025**, outlining key activities and milestones.
 
-![Roadmap](../../RECARN_UQAM_Lean_Canvas.png)
+![Roadmap](https://github.com/RECARN-UQAM/.github/blob/main/RECARN_UQAM_Lean_Canvas.png)
 
 1. **Septembre 2024**: Lancement officiel de RECAN-UQAM et premier atelier de formation entre pairs.
 2. **Octobre 2024**: Publication du premier article de blog et contenu sur les médias sociaux pour les technologies ARN.
@@ -47,7 +47,7 @@ Below is the project roadmap from **September 2024 to March 2025**, outlining ke
 
 The Lean Canvas for RECARN-UQAM provides a strategic overview of the project's goals, target audience, and key differentiators.
 
-![Lean Canvas](../../roadmap_recarn_uqam.jpg)
+![Lean Canvas](https://github.com/RECARN-UQAM/.github/blob/main/roadmap_recarn_uqam.jpg)
 
 ### Summary of Key Points
 
@@ -71,7 +71,7 @@ We welcome contributions from the community! Here’s how you can get involved:
 2. **Follow Us**: Stay updated by following our [GitHub Organization](https://github.com/RECARN-UQAM) and joining discussions.
 3. **Suggest Improvements**: Open an issue on our GitHub repo to propose new ideas or report bugs.
 
-For detailed guidelines, please refer to our [Contributing Guide](./contributing-guide.md).
+For detailed guidelines, please refer to our [Contributing Guide](../../contributing-guide.md).
 
 ---
 
