@@ -31,7 +31,7 @@ Key goals include:
 
 Below is the project roadmap from **September 2024 to March 2025**, outlining key activities and milestones.
 
-![Roadmap](./roadmap_recarn_uqam.jpg)
+![Roadmap](roadmap_recarn_uqam.jpg)
 
 1. **Septembre 2024**: Lancement officiel de RECAN-UQAM et premier atelier de formation entre pairs.
 2. **Octobre 2024**: Publication du premier article de blog et contenu sur les médias sociaux pour les technologies ARN.
@@ -47,7 +47,7 @@ Below is the project roadmap from **September 2024 to March 2025**, outlining ke
 
 The Lean Canvas for RECARN-UQAM provides a strategic overview of the project's goals, target audience, and key differentiators.
 
-![Lean Canvas](./RECARN_UQAM_Lean_Canvas.png)
+![Lean Canvas](RECARN_UQAM_Lean_Canvas.png)
 
 ### Summary of Key Points
 
