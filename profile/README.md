@@ -71,7 +71,7 @@ We welcome contributions from the community! Here’s how you can get involved:
 2. **Follow Us**: Stay updated by following our [GitHub Organization](https://github.com/RECARN-UQAM) and joining discussions.
 3. **Suggest Improvements**: Open an issue on our GitHub repo to propose new ideas or report bugs.
 
-For detailed guidelines, please refer to our [Contributing Guide](../../contributing-guide.md).
+For detailed guidelines, please refer to our [Contributing Guide](../contributing-guide.md).
 
 ---
 
