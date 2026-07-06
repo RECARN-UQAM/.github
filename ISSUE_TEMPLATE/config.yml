@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Join RECARN-UQAM
+    url: https://forms.office.com/r/BhrEg8yGGq
+    about: Want to get involved? Complete our membership form.
+  - name: Website
+    url: https://www.recarn-uqam.org/
+    about: Learn more about the network, our activities, and events.
+  - name: General questions
+    url: mailto:toure.francois_gonothi@courrier.uqam.ca
+    about: For questions that are not bugs or feature requests, email us.

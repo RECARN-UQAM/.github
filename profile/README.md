@@ -1,4 +1,4 @@
-# RECARN-UQAM (Réseau des Étudiants Chercheurs de l'Alliance de Recherche Numérique à l'UQAM)
+# RECARN-UQAM
 
 **Champion de l'EDIA dans l'IRN**: Francois Gonothi Toure  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/company/recarn-uqam/)
@@ -18,7 +18,7 @@
 
 ## Project Overview
 
-**RECARN-UQAM** (Réseau des Étudiants Chercheurs de l'Alliance de Recherche Numérique à l'UQAM) is a collaborative, inclusive research network at the Université du Québec à Montréal (UQAM). It aims to empower students, particularly those from equity-seeking groups, by providing access to advanced digital research technologies (ARN), including AI, cybersecurity, and data science. Through peer mentoring, workshops, and collaborative projects, RECARN-UQAM fosters technical skills and a supportive learning environment to overcome barriers in STEM fields.
+**RECARN-UQAM** is a collaborative, inclusive research network at the Université du Québec à Montréal (UQAM). It aims to empower students, particularly those from equity-seeking groups, by providing access to advanced digital research technologies (ARN), including AI, cybersecurity, and data science. Through peer mentoring, workshops, and collaborative projects, RECARN-UQAM fosters technical skills and a supportive learning environment to overcome barriers in STEM fields.
 
 Key goals include:
 - Providing training on ARN technologies through peer-led workshops and content creation.
@@ -31,9 +31,9 @@ Key goals include:
 
 Below is the project roadmap from **September 2024 to March 2025**, outlining key activities and milestones.
 
-![Roadmap](https://github.com/RECARN-UQAM/.github/blob/main/roadmap_recarn_uqam.jpg)
+![Roadmap](https://github.com/RECARN-UQAM/.github/blob/main/roadmap_recarn_uqam.jpg?raw=true)
 
-1. **Septembre 2024**: Lancement officiel de RECAN-UQAM et premier atelier de formation entre pairs.
+1. **Septembre 2024**: Lancement officiel de RECARN-UQAM et premier atelier de formation entre pairs.
 2. **Octobre 2024**: Publication du premier article de blog et contenu sur les médias sociaux pour les technologies ARN.
 3. **Novembre 2024**: Première session de feedback avec les groupes en quête d’équité pour ajuster les formations.
 4. **Décembre 2024**: Rencontre avec les décideurs pour discuter des politiques d’inclusion et évaluation intermédiaire des projets collaboratifs.
@@ -47,7 +47,7 @@ Below is the project roadmap from **September 2024 to March 2025**, outlining ke
 
 The Lean Canvas for RECARN-UQAM provides a strategic overview of the project's goals, target audience, and key differentiators.
 
-![Lean Canvas](https://github.com/RECARN-UQAM/.github/blob/main/RECARN_UQAM_Lean_Canvas.png)
+![Lean Canvas](https://github.com/RECARN-UQAM/.github/blob/main/RECARN_UQAM_Lean_Canvas.png?raw=true)
 
 ### Summary of Key Points
 
